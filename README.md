@@ -321,7 +321,7 @@ Here's a screenshot:
 
 ### Textarea
 
-Textarea elements are useful if we want our users to be able to be able to write
+Textarea elements are useful if we want our users to be able to write
 multiple lines of text. For example, if we wish to allow our clients to write
 special notes for their dogs, we can let them write as much or as little as they
 like.
